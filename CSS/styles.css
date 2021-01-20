@@ -1,0 +1,27 @@
+body {
+  background-color:  #f4eeff;
+  font-family: "Arial", "Helvetica", "sans-serif";
+
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #dcd6f7;
+border-width: 10px;
+width: 3%;
+
+}
+h1{
+  color: #424874;
+  letter-spacing: 3px;
+
+}
+
+h3{
+  color: #a6b1e1;
+}
+
+th{
+  color: #a6b1e1;
+}
